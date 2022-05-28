@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">PEEP-Talk: A Situational Conversation-Based English Education Platform</h4>
-<p align="center">Korea University</p>
+<p align="center">NMT Group, Korea University</p>
 
 <p align="center">
     <img alt="python-3.7.7" src="https://img.shields.io/badge/python-3.7.7-blue"/>
