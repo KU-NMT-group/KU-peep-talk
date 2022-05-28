@@ -74,6 +74,10 @@ python app.py
 - [Video](https://www.youtube.com/watch?v=PXlIEOi54wY)
 
 
+## References
+- [TransferTransfo](https://github.com/huggingface/transfer-learning-conv-ai)
+
+
 
 ## License
 The MIT License
